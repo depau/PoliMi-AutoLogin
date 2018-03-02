@@ -2,6 +2,7 @@
 Userscript to automatically login to Politecnico di Milano online services (autocomplete must be turned on).
 
 [Download/Install `polimi-autologin.user.js`](https://raw.githubusercontent.com/Depaulicious/PoliMi-AutoLogin/master/polimi-autologin.user.js)
+
 (requires [Tampermonkey](https://tampermonkey.net/), [Greasemonkey](https://www.greasespot.net/) or analogous browser extension)
 
 ### Install on Chrome without Tampermonkey
